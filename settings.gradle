@@ -1,1 +1,4 @@
 rootProject.name = 'untitled'
+include 'xxx-api'
+include 'xxx-admin'
+include 'xxx-domain'
